@@ -1,13 +1,5 @@
 # Mapeando a ocorrência do vírus Zika
 
-# Obs: Caso tenha problemas com a acentuação, consulte este link:
-# https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding
-
-# Configurando o diretório de trabalho
-# Coloque entre aspas o diretório de trabalho que você está usando no seu computador
-setwd("C:/FCD/BigDataRAzure/Cap19/1-Mini-Projeto05")
-getwd()
-
 # http://combateaedes.saude.gov.br/pt/situacao-epidemiologica
   
 # Carregando os pacotes
@@ -123,7 +115,7 @@ library(ggmap)
 #if(!requireNamespace("devtools")) install.packages("devtools")
 #devtools::install_github("dkahle/ggmap")
 #?register_google
-register_google(key = "AIzaSyCGgX5Mp-visTiCSTnrJaYrQUGTomM6C24")
+register_google(key = "API")
 
 longlat <- geocode(unique(statedf$location)) %>% 
   mutate(loc = unique(statedf$location)) 
@@ -157,6 +149,7 @@ leaflet(long_formapping) %>%
   addMarkers(clusterOptions = markerClusterOptions())
 
 
+## Exemplo para outras utilizações
 masp <- geocode("Av. Paulista, 1578 - Bela Vista, Sao Paulo, Brasil")
 pda <- get_map("Av. Paulista, 1578 - Bela Vista, Sao Paulo, Brasil", zoom=12)
 pda.map <- ggmap(pda,extent = "panel")
