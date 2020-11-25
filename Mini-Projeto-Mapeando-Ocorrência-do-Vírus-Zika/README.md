@@ -16,4 +16,4 @@ Arrasta o mapa com o mouse e utiliza-se o zoom para aproximar ou afastar a image
 Essas funções fazem chamada ao Google Maps, e para serem utilizadas , desde 2018 necessita-se criar uma API e Ativar as API's de Geocodificação e Geolocalização.
 
 ## Visualização do Gráfico Interativo
-Para visualização do gráfico interativo em vídeo, acessa meu Linkedin no link: https://www.linkedin.com/feed/update/urn:li:ugcPost:6737013587157520384/
+Para visualização do gráfico interativo em vídeo, acesse meu Linkedin no link: https://www.linkedin.com/feed/update/urn:li:ugcPost:6737013587157520384/
