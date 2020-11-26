@@ -1,6 +1,6 @@
 ## Fundamentos da Linguagem R
 
-Nesse 1º Capítulo de aprendizados em R compreendemos seus Fundamentos:
+No 2º Capítulo de aprendizados em R compreendemos seus Fundamentos:
 
 <ul>
   <li>RStudio</li>

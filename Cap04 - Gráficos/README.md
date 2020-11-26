@@ -1,6 +1,6 @@
 ## Gráficos
 
-Nesse 3º Capítulo de aprendizados em R compreendemos Gráficos e ao final do capítulo no "Big Data na Prática" visualizamos gráficos interativos com o pacote googleVis:
+No 4º Capítulo de aprendizados em R compreendemos Gráficos e ao final do capítulo no "Big Data na Prática" visualizamos gráficos interativos com o pacote googleVis:
 
 <ul>
   <li>O que é Visualização de Dados?</li>

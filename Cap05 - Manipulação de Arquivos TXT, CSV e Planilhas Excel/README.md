@@ -1,6 +1,6 @@
 ## Manipulação de Arquivos TXT, CSV e Planilhas Excel
 
-Nesse 4º Capítulo de aprendizados em R compreendemos Importação e Manipulação de Arquivos TXT, CSV e Planilhas Excel e ao final do capítulo no "Big Data na Prática" fizemos uma aplicação de Regra de Associação:
+No 5º Capítulo de aprendizados em R compreendemos Importação e Manipulação de Arquivos TXT, CSV e Planilhas Excel e ao final do capítulo no "Big Data na Prática" fizemos uma aplicação de Regra de Associação:
 
 <ul>
   <li>Definição</li>
