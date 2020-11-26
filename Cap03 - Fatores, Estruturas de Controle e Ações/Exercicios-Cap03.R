@@ -1,14 +1,5 @@
 # Lista de Exercícios - Capítulo 3
 
-# Obs: Caso tenha problemas com a acentuaÃ§Ã£o, consulte este link:
-# https://support.rstudio.com/hc/en-us/articles/200532197-Character-Encoding
-
-# Configurando o diretÃ³rio de trabalho
-# Coloque entre aspas o diretÃ³rio de trabalho que vocÃª estÃ¡ usando no seu computador
-# NÃ£o use diretÃ³rios com espaÃ§o no nome
-setwd("C:/FCD/BigDataRAzure/Cap02")
-getwd()
-
 # Exercícios 1 - Pesquise pela função que permite listar todos os arquivo no diretório de trabalho
 list.files()
 
