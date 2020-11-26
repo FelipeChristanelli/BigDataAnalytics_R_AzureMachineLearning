@@ -33,7 +33,7 @@ Exemplo de Gráfico Interativo - Pizza (Pie)
 <center><img src="https://user-images.githubusercontent.com/61481422/100363306-4eb8a880-2fdb-11eb-8992-12e1250d01f9.png" alt="" width="800"></center>
 
 Geo Chart
-<center><img src=("https://user-images.githubusercontent.com/61481422/100377635-59316d00-2ff0-11eb-9b36-c7caf2176d27.jpg" alt="" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/61481422/100377635-59316d00-2ff0-11eb-9b36-c7caf2176d27.jpg" alt="" width="800"></center>
 
 Nível de analfabetismo nos EUA
 <center><img src="https://user-images.githubusercontent.com/61481422/100363228-33e63400-2fdb-11eb-828f-704d57fe047a.png" alt="" width="800"></center>
