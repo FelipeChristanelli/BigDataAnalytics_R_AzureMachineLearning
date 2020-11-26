@@ -20,3 +20,21 @@ Nesse 3º Capítulo de aprendizados em R compreendemos Gráficos e ao final visu
   <li>Exercícios</li>
 </ul>
 
+
+## Big Data na Prática 2 - Visualizações Interativas
+
+Baseado no Google Chart (visualização de dados na web) o googlevis é um pacote que fornece interface entre R e o Google Charts, utiliza JavaScript e arquivos JSON. Os dados são transformados em formato JSON e
+o seu resultado é gerado em HTML5 ou Flash.
+Pode-se criar os mais variados tipos de gráficos e mapas. Inclusive Google Maps.
+Você pode incorporar os gráficos criados em páginas HTML ou apps.
+Verifique termos de uso, antes de utilizar.
+
+Exemplo de Gráfico Interativo - Pizza (Pie)
+<center><img src="https://user-images.githubusercontent.com/61481422/100363306-4eb8a880-2fdb-11eb-8992-12e1250d01f9.png" alt="" width="800"></center>
+
+Geo Chart
+<center><img src="https://user-images.githubusercontent.com/61481422/100363283-42cce680-2fdb-11eb-9e0d-61f3f174e0d1.png" alt="" width="800"></center>
+
+
+Nível de analfabetismo nos EUA
+<center><img src="https://user-images.githubusercontent.com/61481422/100363228-33e63400-2fdb-11eb-828f-704d57fe047a.png" alt="" width="800"></center>
