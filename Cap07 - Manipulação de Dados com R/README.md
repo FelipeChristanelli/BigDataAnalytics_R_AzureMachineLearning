@@ -1,6 +1,6 @@
 ## Manipulação de Dados com R
 
-No 7º Capítulo de aprendizados em R compreendemos Manipulação de Dados ou "Data Wrangling" e ao final do capítulo no último "Big Data na Prática" do curso realizamos uma aplicação de Análise de Séries Temporais no Mercado Financeiro:
+No 7º Capítulo, finalizaremos os aprendizados em R compreendendo Manipulação de Dados ou "Data Wrangling" e ao final do capítulo no último "Big Data na Prática" do curso realizamos uma aplicação de Análise de Séries Temporais no Mercado Financeiro:
 
 <ul>
   <li>O que é Data Wrangling</li>
