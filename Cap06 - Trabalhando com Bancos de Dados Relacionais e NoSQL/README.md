@@ -1,6 +1,6 @@
 ## Bancos de Dados Relacionais e NoSQL
 
-No 6º Capítulo de aprendizados em R sobre Bancos de Dados Relacionais e NoSQL e ao final do capítulo no "Big Data na Prática" visualizamos realizamos uma aplicação de Análise de Taxa de Cancelamento de Cliente utilizando Regressão Logística e Random Forest:
+No 6º Capítulo de aprendizados em R compreendemos sobre Bancos de Dados Relacionais e NoSQL e ao final do capítulo no "Big Data na Prática" realizamos uma aplicação de Análise de Taxa de Cancelamento de Cliente utilizando Regressão Logística e Random Forest:
 
 <ul>
   <li>Introdução aos Bancos de Dados Relacionais</li>
