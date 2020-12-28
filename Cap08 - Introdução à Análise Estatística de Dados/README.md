@@ -1,6 +1,6 @@
 ## Introdução à Análise Estatística de Dados
 
-Neste 8º Capítulo, iniciaremos os estudos voltados a Análise Estatística de Dados:
+Neste 8º Capítulo, iniciaremos o 1º de 3 capítulos com estudos voltados a Estatística de Dados:
 
 <ul>
   <li>O  Papel da Estatística em Ciência de Dados</li>
