@@ -1,5 +1,6 @@
 # Lista de Exercícios - Capítulo 2
 
+
 # Exercício 1 - Crie um vetor com 30 números inteiros
 vetor1 = seq(1:30)
 vetor1

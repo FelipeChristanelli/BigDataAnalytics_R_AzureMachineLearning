@@ -1,5 +1,6 @@
 # Lista de Exercícios - Capítulo 4
 
+
 # Exercicio 1 - Crie uma função que receba os dois vetores abaixo como parâmetro, 
 # converta-os em um dataframe e imprima no console
 vec1 <- (10:13)

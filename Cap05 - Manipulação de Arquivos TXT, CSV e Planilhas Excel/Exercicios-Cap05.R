@@ -1,4 +1,4 @@
-# Solução Lista de Exercícios - Capítulo 5
+# Lista de Exercícios - Capítulo 5
 
 
 # Exercicio 1 - Encontre e faça a correção do erro na instrução abaixo:

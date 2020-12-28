@@ -1,5 +1,6 @@
 # Lista de Exercícios - Capítulo 3
 
+
 # Exercícios 1 - Pesquise pela função que permite listar todos os arquivo no diretório de trabalho
 list.files()
 

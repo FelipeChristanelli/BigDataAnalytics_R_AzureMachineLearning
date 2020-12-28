@@ -1,4 +1,4 @@
-# Solução Lista de Exercícios - Capítulo 6
+# Lista de Exercícios - Capítulo 6
 
 
 # Exercicio 1 - Instale a carregue os pacotes necessários para trabalhar com SQLite e R
