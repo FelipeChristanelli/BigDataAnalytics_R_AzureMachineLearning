@@ -1,6 +1,6 @@
 ## Mini-Projeto - Análise de Sentimento em Redes Sociais
 
-Chegando ao final da jornada do curso, neste 17º capítulo, realizamos um Mini-Projeto de Análise de Sentimento em Redes Sociais, mais especificamente, do Twitter:
+Chegando ao final da jornada do curso, iniciando neste 17º capítulo uma sequência de 3 Mini-Projetos, realizando o 1º sobre Análise de Sentimento em Redes Sociais, mais especificamente, do Twitter:
 
 <ul>
   <li>Como usar os Mini-Projetos?</li>
