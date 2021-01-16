@@ -1,6 +1,6 @@
-## Conhecimento e Aplicações em R
+## Big Data Analytics com R e Microsoft Azure Machine Learning
 
-Curso Big Data Analytics com R e Microsoft Azure Machine Learning da Formação Cientista de Dados da Data Science Academy. O curso é dividido em 3 partes principais: Aprendizados em R, Introdução a Análise Estatística de Dados e Microsoft Azure Machine Learning com os capítulos descritos a seguir:
+1º Curso da Formação Cientista de Dados da Data Science Academy. O curso é dividido em 3 partes principais: Aprendizados em R, Introdução a Análise Estatística de Dados e Microsoft Azure Machine Learning com os capítulos descritos a seguir:
 
 <ul>
   <li>Cap02 - Fundamentos da Linguagem R</li>
